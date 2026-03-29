@@ -1,0 +1,27 @@
+{
+  "name": "atividade4",
+  "version": "1.0.0",
+  "description": "Atividade 4",
+  "homepage": "https://github.com/Drakela2021/Atividade4#readme",
+  "bugs": {
+    "url": "https://github.com/Drakela2021/Atividade4/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drakela2021/Atividade4.git"
+  },
+  "license": "ISC",
+  "author": "Eick Ricardo",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "express-session": "^1.19.0",
+    "session": "^0.1.0"
+  }
+}
